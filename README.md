@@ -4,11 +4,11 @@
 
 A machine learning project to predict whether a customer is likely to default on a home loan using structured financial and demographic data.
 
-#📌 Project Overview
+# 📌 Project Overview
 
 Financial institutions face major risks by issuing loans to customers who may default. This project builds a predictive model that can help banks and lending agencies identify customers who are more likely to default, enabling data-driven lending decisions.
 
-#🎯 Objective
+# 🎯 Objective
 
 Analyze customer application and payment history data
 
