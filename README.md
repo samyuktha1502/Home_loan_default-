@@ -4,11 +4,11 @@
 
 A machine learning project to predict whether a customer is likely to default on a home loan using structured financial and demographic data.
 
-📌 # Project Overview
+#📌 Project Overview
 
 Financial institutions face major risks by issuing loans to customers who may default. This project builds a predictive model that can help banks and lending agencies identify customers who are more likely to default, enabling data-driven lending decisions.
 
-🎯 # Objective
+#🎯 Objective
 
 Analyze customer application and payment history data
 
@@ -20,7 +20,7 @@ Evaluate and compare model performances
 
 Provide insights that support risk-aware lending
 
-🗂 # Dataset
+# 🗂 Dataset
 
 This project uses multiple datasets supplied by the bank:
 
@@ -56,7 +56,7 @@ Loan application history
 
 Each supplemental dataset is merged using SK_ID_CURR to enrich the customer profile.
 
-🛠 # Data Preprocessing
+# 🛠  Data Preprocessing
 
 Key steps performed:
 
@@ -73,7 +73,7 @@ Financial behavior trends
 
 Default correlations
 
-📊 # Exploratory Data Analysis (EDA)
+# 📊 Exploratory Data Analysis (EDA)
 
 The notebook includes several insights and visualizations:
 
@@ -85,7 +85,7 @@ Trends in repayment behavior
 
 Flag features indicating financial risk
 
-🤖 # Machine Learning Models
+# 🤖 Machine Learning Models
 
 Multiple models were trained and compared:
 
